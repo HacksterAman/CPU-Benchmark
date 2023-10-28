@@ -1,7 +1,5 @@
 import random
 import time
-import threading
-import math
 import platform
 import os
 import cpu_info
