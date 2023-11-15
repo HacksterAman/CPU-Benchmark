@@ -72,7 +72,7 @@ def start_benchmark():
 
 # Create a tkinter window
 root = tk.Tk()
-root.title("CPU Benchmarking Tool")
+root.title("CPU Benchmark Tool")
 root.state("zoomed")  # Maximize the window
 
 # Create and configure sliders for samples and iterations
