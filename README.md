@@ -20,12 +20,12 @@ Before running the benchmark tool, ensure that the following libraries are insta
 - `time` (Standard Python library)
 - `platform` (Standard Python library)
 - `os` (Standard Python library)
-- `cpu_info` (Install via `pip install cpuinfo`)
+- `cpu_info` (Provided with the repository)
 - `tkinter` (Standard Python library for GUI)
 
 ## Installation
 
-1. Install the `tkinter` library:
+1. Install the `tkinter` library (If not available) :
 
     ```bash
     pip install tk
